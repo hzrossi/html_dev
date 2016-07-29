@@ -20,7 +20,7 @@ div > div > div {
 	height: 100%; /* ou 200px e overflow: auto; */
 	color: white;
 	text-align: justify;
-	padding: 45px 15px 15px 15px;
+	padding: 54px 15px 15px 15px;
 }
 
 .title {
